@@ -115,7 +115,90 @@ code:
 
  ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/e5b1b348-5aea-4a9b-8965-d3df67fe5bc9)
 
- # 
+ # Question No(16) data = [88,39,80,31,70,90,100,121] Print only the odd values and their indexes from the given list using the while loop?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/75f412a8-557d-483a-a5ce-f82a8a8c6b27)
+
+ # For loop:
+ For loop in python is used to iterate over a sequence such as list, tuple, dictionary, set.it allows you to execute a block of code multiple times.
+
+# Question No(17) Factorial of any number using the for loop?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/e145b16f-4889-4d16-b516-603337be643b)
+
+# Question No(18) Take a input value from the users to check whether it is prime or not?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/a0c28f6f-501c-4c52-be59-52c238855285)
+
+# Question No(19) data = [88,39,80,31,70,90,100,121] Print only the odd numbers from the given list using the for loop?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/00cfad02-dbf8-4770-82fc-6088c0fea4ec)
+
+# Nested loop:
+Nested loop in python is a loop inside another loop.This means that one loop is placed inside the body of another loop.
+
+# Question No(20) Get the sum of all the prime numbers between 1 to 100?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/cbaa12e7-0f38-46d7-9ba5-a6d666a010d5)
+
+# Question No(21) Make a floyd's triangle?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/0fa50b56-61a4-4d31-9984-d6cdcb21c8cf)
+
+# Question No(22) Construct a Right angle triangle pattern for '#'?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/bfcb3399-77e1-4089-8e4e-3f0c49333e37)
+
+# Question No(23) Construct a Inverted right angled triangle?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/8b56b167-f682-4b65-b2b3-8e3073d817c8)
+
+# Control Flow Statement : Break, Continue, Pass
+
+# Break is the terminator. it terminates the loop as soon as it gets executed.
+
+# Question No(24) Write a program to get the prime numbers between 1 to 100?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/f26132d1-f003-4da9-abb6-4092d1ff9082)
+
+# Question No(25) li = ['Satya','Pavs','Bilal','Yash','Himan',2,32,283,20,387,28,19] Get only the names from the list using break statement in the loop?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/f1b3e286-5ec9-4da4-bc49-3daf64702407)
+
+# 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 
 
  
