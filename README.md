@@ -76,7 +76,55 @@ code:
 
 ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/6ed70432-6604-41b3-9b48-b9e724831b14)
 
-# 
+# Question No(11) c='Salman Khan' display only 'Salman'?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/6c0a897b-d4f1-4ed7-9d70-fb3a8fbb33f1)
+
+# Question No(12) d=(10,20,30,40,50,60,70,80,90,100) display only even index values?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/58ca84ac-2b09-49be-950b-cd93a8602f38)
+
+# Question No(13) m= ['gaya',23,'yash',24,'vijay',25,'shiny',26] get only the integers?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/d93f7bb1-a719-4caf-ab18-1689708032c2)
+
+# Loop : While loop , For loop , Nested loop
+
+ # While loop:
+ While loop is entry controlled loop.Four components of while loop are:
+ (1) Initialization: to initialize a value.
+ (2) Entry condition: to enter a while loop,the entry condition should be satisfied.
+ (3) stopping condition: to stop the loop.
+ (4) Increment or Decrement criteria: to move forward or backward the loop.
+
+ # Question No(14) Print the table of 4 using while loop?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/e827ddc9-1cfc-44ac-a7a5-7067217c255f)
+
+ # Question No(15) print the even numbers till 100 using while numbers?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/e5b1b348-5aea-4a9b-8965-d3df67fe5bc9)
+
+ # 
+
+
+ 
+   
+
+
+
+
+
 
 
 
