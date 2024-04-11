@@ -355,7 +355,7 @@ code:
 
 ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/28790a02-d833-44b1-ad82-8181ecdf99ef)
 
-# Question No(50) n = ['Himanshu','Yahswanth','Siddhant','Gaya','Kajol','Yash'] Display only the name whose length is greater than 5 using lambda function?
+# Question No(50) n =['Himanshu','Yahswanth','Siddhant','Gaya','Kajol','Yash'] Display only the name whose length is greater than 5 using lambda function?
 
 code:
 
