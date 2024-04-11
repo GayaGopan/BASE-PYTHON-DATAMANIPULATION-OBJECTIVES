@@ -185,6 +185,97 @@ code:
 
 ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/f1b3e286-5ec9-4da4-bc49-3daf64702407)
 
+# Question No(26) Take a input number from the user and check whether it is prime or not?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/6427dc77-7f03-485b-bc15-914796fb6092)
+
+# continue: it skips the present position and moves to the next position.continue does not terminate the loop.
+
+# Question No(27) lis = ['Satya',21,56,'Pavs',72,90,16,'Bilal',56,'Yash',81,67,'Himan',34] Get only the names from given list?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/4682886c-2316-4e72-8020-af45b48f6c30)
+
+# Question No(28) ['Satya',21,56,'Pavs',72,90,16,'Bilal',56,'Yash',81,67,'Himan',34] Get only the numbers from given list?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/3b10be31-a56c-4c61-936a-c941374f597e)
+
+# Question No(29) Print only the odd numbers between 1 to 10 using continue statement?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/02c2d71a-96fe-4955-b420-9e864a141e55)
+
+# Pass: it is just pass the loop.
+
+# Question No(30) Using pass statement print only the even numbers between 1 to 11?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/c56e7295-1105-4667-befd-52a4e8dcf098)
+
+# List Comprehensions:
+Only one line of code for looping.It uses 'For Loop'.It always gives a list as an output.
+syntax:
+output=[(output_value) for alias_name in list if priority_condition()]
+
+# Question No(31) p = [14,102,121,23,130,26,34,45,148,131,128,21,118,133,144,44,33] From the given list , get only odd numbers and add them into a new list after multiplying them with 1000?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/027c258c-36f8-430e-97c9-5775c5910e5d)
+
+# Question No(32) l = [10,20,30,40,50,60] add the data which is divisible by 3 in a new list after multiplying each number by 10?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/50f20616-080b-4217-93f5-051ce8b58940)
+
+# Question No(33) ['Himanshu','Swagath','Vijay','Gaya','Siddhant','Pavithra','Dhivya','Chetan','Bilal','Yashwanth','Yash','Jyothi','Shiny','Kajol','Jaspreet','Shankar','Rasika','Akash','Satyajit'] =names, enter the lengths of each name which is present at even indexes in a new list?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/b1b6c20e-a8ab-4dae-9dd7-74351392ae5d)
+
+# Question No(34) ['Himanshu','Swagath','Vijay','Gaya','Siddhant','Pavithra','Dhivya','Chetan','Bilal','Yashwanth','Yash','Jyothi','Shiny','Kajol','Jaspreet','Shankar','Rasika','Akash','Satyajit'] = names From the given list if the length of the name is odd, then store the name in Upper case and if the length of the name is even, then store the name in Lower case?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/99acabe6-2309-432d-ac89-7e31afb246f5)
+
+# Question No(35) [101,23.5,102,24.6,103,31.2,104,32.4,105,25.6,106,34.5,107,31.5,108,40.6,109,41.5,110,36.5] = emp In the list, ten employees ids and their salaries are given. You have to store their salaries in a new list after multiplying each value with 1000?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/a36ea465-0cda-43b7-aa90-6efe9a4ec50f)
+
+# Question No(36) l = ['Mr Samuel Jacobs A','Mr Gagan Anand B','Mrs Mamta Upadhyay A','Mrs Aditya Smith B','Mr Kapil Gupta A','Mr Ajay Malhotra B','Mrs Shalini Iyer A','Mrs Meenakshi Iyer B'] From the list, store the names of only females from both the blocks and store them in two new lists A_block and B_block?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/0cdb0ac0-e511-4621-bad0-f71231b8c86c)
+
+# Set Comprehension:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
