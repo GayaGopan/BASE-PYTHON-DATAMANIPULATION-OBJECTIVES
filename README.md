@@ -261,6 +261,119 @@ code:
 ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/0cdb0ac0-e511-4621-bad0-f71231b8c86c)
 
 # Set Comprehension:
+It always gives a set as an output.Only one line of code for looping.
+syntax:
+{expression for element in iterable(if condition)}
+
+# Question No(37) num={25,36,56,78,90} create a new set containing the squares of the numbers?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/3ca6cea7-79dd-4e73-9bca-7627784ee8bf)
+
+# Question No(38) p= {12,13,34,31,46,17,18,19,67,40,41,21,77,84,55} create a new set containing the odd numbers?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/e85222a9-c99e-4dff-9ebd-1487107dcc68)
+
+# Question No(39) l = {'Mr Samuel Jacobs A','Mr Gagan Anand B','Mrs Mamta Upadhyay A','Mrs Aditya Smith B','Mr Kapil Gupta A','Mr Ajay Malhotra B','Mrs Shalini Iyer A','Mrs Meenakshi Iyer B'} create a new set containing only female names?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/1206f617-7fdb-4de5-8dda-38687dfdb3fa)
+
+# Dictionary Comprehension:
+It always gives a dictionary as an output.Only one line of code for looping.
+syntax:
+{key_expression:value_expression for element in iterable}
+
+ # Question No(40) ['Normal','Normal','Normal','Normal','Fraud','Normal','Normal','Normal','Normal','Normal','Normal','Normal','Normal','Fraud','Normal','Normal','Fraud','Normal','Normal','Normal','Normal','Normal','Normal','Fraud','Normal','Normal','Normal','Normal','Normal','Normal','Normal','Normal','Fraud','Normal','Normal','Fraud','Normal','Normal'] = data Find the count of fraud?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/08cf5264-e7c1-43cb-af9e-7fa603eeba22)
+
+ # Question No(41) names={'Alice','Bob','Charlie','David','Eve'} create a dictionary with name and length of the names?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/d54f048c-ac9e-4bba-b117-0db4db887107)
+
+ # Question No(42) ['Himanshu218627','Swagath122','Vijay21','Gaya13210983','Siddhant1232143','Pavithra12328372080','Dhivya213','Chetan2321','Bilal213','Yashwanth23982093','Yash238029u309','Jyothi23098203u09','Shiny23230909','Kajol32013','Jaspreet213e','Shankar231','Rasika','Akash','Satyajit'] = names create a new dictionary with names and length of names?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/a82f7820-cd96-4708-a027-1890ee123e00)
+
+ # Question No(43) {'MSD':'CSK','Virat':'RCB','Hardik':'MI','Rohit':'MI','Jadeja':'CSK','Conway':'CSK','Surya':'MI','ABD':'RCB','Gayle':'RCB','Bumrah':'MI','Raina':'CSK'}=ipl create a new dictionary with output like {'CSK' :4,'RCB' :3,'MI' :4}?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/9df764ca-132a-4c50-8a9a-1cb5473c46e9)
+
+ # User-Defined Function:
+ In python ,user defined functions allows you to create reusable block of code to perform specific tasks. They are defined using the def keyword followed by the function name and parentheses containing any parameters.
+
+ # Question No(44) Create a UDF to find the smallest 'n' digit number divisible by 'n'?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/5fcbaf06-6acc-466a-aae5-650c0b3150bd)
+
+ # Question No(45) Create a UDF which gives the factorial of any number?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/f9357110-37da-4816-9a26-3a05f7cccadf)
+
+ # Question No(46) create a UDF which take a username as an input and password as an input and your favorite question as an input.if the password ,username and question matches: print("Welecome to the lab") else print("Security Alarms Activated")?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/b021d519-fa91-4afc-ae4a-94e5611dfa7f)
+
+ # Question No(47) Create a UDF to find the greatest 'n' digit number divisible by 'n'?
+
+ code:
+
+ ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/bb548545-76d1-44c1-845d-8831f6703d9e)
+
+ # Lambda Function:
+Lambda functions are anonymous functions. It contains a single line code and they don't have any name like UDFs.There are 3 functions are used with lambda function:map(),filter(),reduce().
+For mathematical operation map() is used with lambda function and for filtering the data filter()is used with lambda function.
+
+# Question No(48) [23.456,34.987,60.2826,27.2727,14.3898,9.2272,15.878937] = data , Using the lambda function, you have to get the floor value of each of the value given in the original list?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/122a7c4f-f6ba-413e-bb05-2df1be0647a0)
+
+# Question No(49) F = [12,35,66,9,96,25,39,33,45,48,60,72,77,84,91,3,21] Get those even values which are greater than 50 from the list using lambda function?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/28790a02-d833-44b1-ad82-8181ecdf99ef)
+
+# Question No(50) n = ['Himanshu','Yahswanth','Siddhant','Gaya','Kajol','Yash'] Display only the name whose length is greater than 5 using lambda function?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/06f35363-ce35-4f73-bd3f-c17a0aa0aa04)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
