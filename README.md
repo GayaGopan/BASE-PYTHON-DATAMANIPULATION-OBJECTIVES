@@ -1,14 +1,14 @@
 # BASE-PYTHON-DATAMANIPULATION-OBJECTIVES
 Base Python Manipulation project is focused on mastering fundamental data manipulation techniques using base python. By diving deep into these foundational aspects of python, you will build a solid understanding that forms the basis for more advanced programming concepts and applications.
 
-# Conditional Statement : if statement, if-else statement, if-elif-else statement, Nested-if
+# Conditional Statement : if statement, else statement, elif-statement, Nested-if
 Conditional statement in python are used to perform different actions based on whether a certain condition evaluates to true or false.
 
 # if statement:
 Executes a block of code only if a specified condition is true.
-# if-else statement: 
+# else statement: 
 It checks a condition and executes one block of code if the condition is true, and another block if it's false.
-# if-elif-else statement:
+# elif-statement:
 It checks multiple condition in sequence and executes the block of code associated with the first true condition.If none of the conditions are true,the else block is executed.
 # Nested-if:
 Nested if statement in python allow you to have an if statement inside another if statement.
@@ -360,6 +360,28 @@ code:
 code:
 
 ![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/06f35363-ce35-4f73-bd3f-c17a0aa0aa04)
+
+# Inheritance:
+Inheritance is a property in Object-Oriented programming(oop). In which derived class or child class inherits some properties of parent class.The child class able to access the methods and instance variables of a parent class then we don't want to create the object of a parent class.
+# Types of Inheritance: 
+(1) Single Inheritance: 
+
+# Question No(51)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # CONCLUSION:
