@@ -364,24 +364,90 @@ code:
 # Inheritance:
 Inheritance is a property in Object-Oriented programming(oop). In which derived class or child class inherits some properties of parent class.The child class able to access the methods and instance variables of a parent class then we don't want to create the object of a parent class.
 # Types of Inheritance: 
-(1) Single Inheritance: 
+(1) Single Inheritance: A child class inherits only from base class. Here we have only one parent child relationship.
 
-# Question No(51)
+(2) Multiple Inheritance: A single child class can inherits the properties of more than one parent class. Here a single child and multiple parents relationship.
 
+(3) Multilevel Inheritance: A class inherits properties and behaviors from another class, which in turn may inherit from another class. It is a step wise inheritance.
 
+(4) Hierarchial Inheritance: ability of a subclass to inherit properties and behavior from multiple superclasses, forming a hierarchical tree-like structure. This allows for the creation of increasingly specialized classes, each building upon the characteristics of its parent classes.Here one parent and two child relationship.
 
+(5) Hybrid Inheritance: It is the combination of single, multiple, multilevel and hierarchial inheritance.
 
+# Question No(51)  Create a single inheritance?
 
+code:
 
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/f7921024-35da-4273-9275-ee17653673de)
 
+# Question No(52)  Create a single inheritance of class car?
 
+code:
 
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/0bd50b8d-ff8c-419f-a817-615b6a07c513)
 
+# Question No(53)  Create a inheritance to show one parent - child relationship?
 
+code:
 
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/75398f1b-5ec3-45d7-973e-6aeb6e2ae18e)
 
+# Question No(54) Single Inheritance to show Manager and Employee relation ?
 
+code:
 
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/4ed1e8a8-990f-40a6-94ec-f654b54251f5)
+
+# Question No(55) Create a Multiple Inheritance?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/71d665f6-b89f-4738-ae7a-8235f2ca1611)
+
+# Question No(56)  Create a inheritance to show multiple parent with one child relationship?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/fe057580-6fba-4514-9868-43b6b7a63400)
+
+# Question No(57)  Multiple Inheritance to show the relation of Work from home, Work from Office and Hybrid?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/a4c7bbb5-3713-44c8-8c6d-c946a5eefd87)
+
+# Question No(58)  Create a multilevel inheritance?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/42a32caa-31d0-400e-bca7-f76dc9687883)
+
+# Question No(59)  Multilevel Inheritance to show the iPhone 13, iPhone 14 and iPhone 15 relations?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/9da9b840-9d89-435b-a535-5d332cfcc2ef)
+
+# Question No(60)  Create Hierarchial Inheritance in a company's organisational structure?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/9a4fd6bf-32fd-4b3c-8e7c-214e0b0bc284)
+
+# Question No(61) Create a Hybrid Inheritance?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/dde5b9cf-bab0-4fd2-88b6-6589584fd72b)
+
+# Polymorphism:
+Polymorphism is a property by which one method can perform multiple operation with same time.
+
+# Question No(62) Create a program to show polymorphism?
+
+code:
+
+![image](https://github.com/GayaGopan/BASE-PYTHON-DATAMANIPULATION-OBJECTIVES/assets/164141178/330a30af-9aa8-4451-803a-8669ece33ae7)
 
 
 # CONCLUSION:
